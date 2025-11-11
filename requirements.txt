@@ -1,0 +1,4 @@
+Flask
+fpdf2
+Pillow
+gunicorn # Recommended for production deployment on Render
